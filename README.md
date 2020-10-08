@@ -1,2 +1,2 @@
-# LadyKore
-Para el weebhooks de discrod
+Prueba uno
+Nose xd
